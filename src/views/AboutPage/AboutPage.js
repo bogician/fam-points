@@ -3,7 +3,7 @@ import React from 'react';
 const AboutPage = () => {
   return (
     <div className='about-page'>
-      this is an about page
+      This is an about page(updated)
     </div>
   );
 };
